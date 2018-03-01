@@ -1,0 +1,9 @@
+<keymap version="1" name="default" parent="$default">
+  <action id="ExternalJavaDoc" />
+  <action id="QuickJavaDoc" />
+  <action id="Scala.CreateScalaDocStub" />
+  <action id="TagDocumentationNavigation" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+</keymap>

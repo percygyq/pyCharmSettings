@@ -1,0 +1,29 @@
+<application>
+  <component name="PyCodeInsightSettings">
+    <option name="PREFER_FROM_IMPORT" value="false" />
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\percy\AppData\Local\Temp\hongbao.py\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\Python\python27\python.exe" value="false" />
+        <entry key="D:\Python\python\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\percy\AppData\Local\Temp\hongbao.py\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\Python\python27\python.exe" value="false" />
+        <entry key="D:\Python\python\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\percy\AppData\Local\Temp\hongbao.py\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\Python\python27\python.exe" value="false" />
+        <entry key="D:\Python\python\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

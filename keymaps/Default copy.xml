@@ -1,0 +1,50 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt numpad1" />
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ExternalJavaDoc" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="QuickJavaDoc" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="RevealIn">
+    <mouse-shortcut keystroke="shift control button1 doubleClick" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="Scala.CreateScalaDocStub" />
+  <action id="TagDocumentationNavigation" />
+  <action id="TextComponent.ClearAction">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+</keymap>
